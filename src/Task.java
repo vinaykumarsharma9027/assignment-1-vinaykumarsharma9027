@@ -85,7 +85,7 @@ public class Tasks {
             scanner.nextLine();
             linkedList1.deleteNode(choice);
             linkedList1.displayOne();
-            System.out.println("Deleted..!!");
+            System.out.println("Deleted...!!");
         } else {
             System.out.println("No Contacts.You must need to add contacts Before you could delete..");
         }
